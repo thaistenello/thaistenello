@@ -1,7 +1,7 @@
 ## Olá eu sou Thais Tenello 👋🏼
 
-<a href="https://www.linkedin.com/in/thais-tenello-aa903811a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/thais-tenello-aa903811a/)
 
 ![thaistenello GitHub stats](https://github-readme-stats.vercel.app/api?username=thaistenello&show_icons=true&theme=radical)
 

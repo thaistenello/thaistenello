@@ -1,4 +1,4 @@
-## Olá eu sou Thais Tenello 👋🏼
+![welcome gif](https://github.com/user-attachments/assets/e3e07efe-1873-4ea0-8c52-cdf11c0f5f37)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/thais-tenello-aa903811a/)

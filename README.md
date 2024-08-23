@@ -37,10 +37,12 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.linkedin.com/in/thais-tenello-aa903811a/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/b5965a67-b15b-4ad6-935b-86b02e620c3d" alt="LinkedIn Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/2029da98-2622-41e3-9afc-266001166e89" alt="LinkedIn Thais Tenello">
     </a>
     <a href="mailto:thaistenello@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="URL_DA_IMAGEM" alt="Email Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/2f0cf68f-ed44-4a4f-aa85-8449d3b5f637" alt="Email Thais Tenello">
     </a>
-
+    <a href="" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/9bbcbdec-2974-447e-aa01-5dce889a2c18" alt="LinkedIn Thais Tenello">
+    </a>
 </div>

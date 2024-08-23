@@ -3,7 +3,7 @@
 
 <!-- MY STACKS -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
-    <img src="https://github.com/user-attachments/assets/5e5a9534-583a-4c8f-85ff-20890adfc18d">
+<img src="https://github.com/user-attachments/assets/79599131-2bd2-4c3d-8cf4-57b58f46e801">
     <img src="https://github.com/user-attachments/assets/df4cc17b-e95b-413d-9953-1b7ea1ec4f62">
     <img src="https://github.com/user-attachments/assets/dce05a00-5c4c-4bee-84f7-598546cfcda4">
     <img src="https://github.com/user-attachments/assets/4d4b777b-33ff-49c4-9ef1-77c0e7ceb5a5">

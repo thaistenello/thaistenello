@@ -43,6 +43,6 @@
         <img src="https://github.com/user-attachments/assets/b9893d25-aefa-422b-9043-84ad5ac163c6" alt="Email Thais Tenello">
     </a>
     <a href="" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/9bbcbdec-2974-447e-aa01-5dce889a2c18" alt="LinkedIn Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/2242eca9-7509-4462-bfd9-9aab32ef340b" alt="LinkedIn Thais Tenello">
     </a>
 </div>

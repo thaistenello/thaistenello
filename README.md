@@ -11,12 +11,13 @@
 
 
 <!-- LIBRARIES -->
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
-   <img src="https://github.com/user-attachments/assets/a618f8c1-442d-491e-953f-48f7b19ec6b1">
-    <img src="https://github.com/user-attachments/assets/8b06ecab-92ae-4264-9a49-16997560d4c2">
-    <img src="https://github.com/user-attachments/assets/1e9bf600-6d4f-491f-8728-cad64293e42e">
-    <img src="https://github.com/user-attachments/assets/d836f506-b361-454b-a3e9-18fe3ae9cf03">
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img src="https://github.com/user-attachments/assets/2a61d1b4-f6e9-45ee-b59e-615e921438c6">
+    <img src="https://github.com/user-attachments/assets/b5a284ac-4837-4a7f-9fa7-ed8efa4743bf">
+    <img src="https://github.com/user-attachments/assets/5411dcc7-af7c-459a-983f-e98fc66bcdcd">
+    <img src="https://github.com/user-attachments/assets/f22f8067-f6a8-495b-b06a-da2082c31d07">
 </div>
+
 
 
 

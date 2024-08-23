@@ -18,8 +18,7 @@
 </div>
    
 <!-- only for stetic -->
-<img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">
-
+<img src="https://github.com/user-attachments/assets/8d1bf663-b5c9-46b9-b9a2-724bffdf0154">
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">

@@ -20,6 +20,7 @@
 <!-- only for stetic -->
 <img src="https://github.com/user-attachments/assets/8d1bf663-b5c9-46b9-b9a2-724bffdf0154">
 
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">
     <img src="https://github.com/user-attachments/assets/de3b166b-a3a0-475b-8f36-c26ed3359034">
@@ -27,6 +28,12 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=codeSTACKr&bg_color=00000000&hide_border=true&hide_title=true" alt="Linguagens">
     </a>
 </div>
+
+<!-- only for stetic -->
+<img src="https://github.com/user-attachments/assets/8d1bf663-b5c9-46b9-b9a2-724bffdf0154">
+
+
+![find](https://github.com/user-attachments/assets/4546c66d-9bc2-47c9-9a49-2bc628a45d51)
 
 
 

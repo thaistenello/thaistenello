@@ -37,7 +37,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.linkedin.com/in/thais-tenello-aa903811a/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/7ffbc677-9064-44db-a665-6fca163a9441" alt="LinkedIn Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/520e3e89-37a7-4c6e-99b5-43bda964fcbe" alt="LinkedIn Thais Tenello">
     </a>
     <a href="mailto:thaistenello@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/2f0cf68f-ed44-4a4f-aa85-8449d3b5f637" alt="Email Thais Tenello">

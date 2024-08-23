@@ -21,10 +21,11 @@
 
 
 
-<div style="margin-top: 100px">
+<div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=dark&bg_color=00000000&hide_border=true&&custom_colors=html:#f0f0ff,css:##E34C26" alt="Linguagens">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=dark&bg_color=00000000&hide_border=true" alt="Linguagens">
     </a>
+</div>
 </div>
 
 

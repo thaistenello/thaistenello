@@ -3,7 +3,7 @@
 
 <!-- MY STACKS -->
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 100px">
+<div style="display: flex; justify-content: center; align-items: center; gap: 80px; margin-top: 100px">
 <!-- HTML -->
 <img src="https://github.com/user-attachments/assets/42cf2d31-e551-41da-9d3e-2def4984e286">
 

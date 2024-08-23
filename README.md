@@ -3,10 +3,10 @@
 
 <!-- MY STACKS -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
-<img src="https://github.com/user-attachments/assets/79599131-2bd2-4c3d-8cf4-57b58f46e801">
-    <img src="https://github.com/user-attachments/assets/df4cc17b-e95b-413d-9953-1b7ea1ec4f62">
-    <img src="https://github.com/user-attachments/assets/dce05a00-5c4c-4bee-84f7-598546cfcda4">
-    <img src="https://github.com/user-attachments/assets/4d4b777b-33ff-49c4-9ef1-77c0e7ceb5a5">
+    <img src="https://github.com/user-attachments/assets/2161faf9-3650-484f-867b-622048591b62">
+    <img src="https://github.com/user-attachments/assets/20fe7818-1da7-4d55-aeef-4d0fa5aad442">
+    <img src="https://github.com/user-attachments/assets/5de07052-1d87-4942-9d38-17fed61899a4">
+    <img src="https://github.com/user-attachments/assets/5e7d204b-58d9-4dcd-a034-f6e9ef823b7a">
 </div>
 
 <!-- LIBRARIES -->

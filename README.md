@@ -23,7 +23,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">
-    <img src="https://github.com/user-attachments/assets/b511a05a-f358-4da9-8256-fb62ecf8883b">
+    <img src="https://github.com/user-attachments/assets/5594c8a6-8cc9-4a60-9f2c-aac2c9cd3bac">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=codeSTACKr&bg_color=00000000&hide_border=true" alt="Linguagens">
     </a>

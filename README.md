@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/1b968524-341a-46e0-b166-08f44757baea">
 
 <!-- Typescript --> 
-<img src="https://github.com/user-attachments/assets/aa90bdbd-296d-4d9d-81d0-ebbb15a2b8dd">
+<img src="https://github.com/user-attachments/assets/0b8d2bc9-275e-48c5-8124-5a7f498e5e06">
 </div>
 
 <!-- LIBRARIES -->

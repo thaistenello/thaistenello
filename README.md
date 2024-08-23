@@ -42,6 +42,6 @@
     <a href="mailto:thaistenello@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/b9893d25-aefa-422b-9043-84ad5ac163c6" alt="Email Thais Tenello">
     <a href="" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/e7eb6dcc-558c-4c06-ac40-b1d88aa8746d" alt="LinkedIn Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/37628aa1-a274-4473-a91a-44caa357a7a0" alt="LinkedIn Thais Tenello">
     </a>
 </div>

@@ -41,7 +41,11 @@
     </a>
     <a href="mailto:thaistenello@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/b9893d25-aefa-422b-9043-84ad5ac163c6" alt="Email Thais Tenello">
-    <a href="" target="_blank" rel="noopener noreferrer">
+    </a>
+    <a href="https://www.instagram.com/thatenello/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/42caa155-c717-4a12-a8bf-c621ac4f2e47" alt="LinkedIn Thais Tenello">
     </a>
 </div>
+<!-- only for stetic -->
+<img src="https://github.com/user-attachments/assets/8d1bf663-b5c9-46b9-b9a2-724bffdf0154">
+

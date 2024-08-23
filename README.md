@@ -26,7 +26,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=codeSTACKr&bg_color=00000000&hide_border=true" alt="Linguagens">
     </a>
-        <img src="https://github.com/user-attachments/assets/32803b78-096f-445b-8fa0-33e6f1905587">
+        <img src="https://github.com/user-attachments/assets/fa94b2c2-6f24-41f8-be61-2957ab4010e0">
 
 </div>
 

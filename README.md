@@ -3,11 +3,12 @@
 
 <!-- MY STACKS -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
-    <img src="https://github.com/user-attachments/assets/3dacae0e-5508-4818-9a32-53e0a50deb43">
+    <img src="https://github.com/user-attachments/assets/68e98c1b-cf26-489d-8f74-7bc6e99c48bd">
     <img src="https://github.com/user-attachments/assets/3220199e-586d-4e63-9c79-6e19712bf621">
     <img src="https://github.com/user-attachments/assets/fb3b209d-e994-4b96-a037-c14e48afd6cc">
-    <img src="https://github.com/user-attachments/assets/a55ee9d8-0a91-4bea-901b-c8f31e367e39">
+    <img src="https://github.com/user-attachments/assets/04cbe654-ae2d-4280-b093-a663380fde23">
 </div>
+
 
 <!-- LIBRARIES -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">

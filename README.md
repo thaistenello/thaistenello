@@ -12,7 +12,7 @@
 
 <!-- LIBRARIES -->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/54db5f5b-ce32-4f96-9309-8e9db18cbebb">
+    <img src="https://github.com/user-attachments/assets/c626f004-3e2e-4a20-9f4b-18493d3b547f">
     <img src="https://github.com/user-attachments/assets/0a95bd9a-51e6-48ee-84aa-74237ddf9ca4">
     <img src="https://github.com/user-attachments/assets/f2db6212-b811-4e8b-a7c3-4d8b502cdae5">
     <img src="https://github.com/user-attachments/assets/cd38ea0f-07e5-44d5-8900-467fd7aaa339">

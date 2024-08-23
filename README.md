@@ -15,21 +15,18 @@
     <img src="https://github.com/user-attachments/assets/0a95bd9a-51e6-48ee-84aa-74237ddf9ca4">
     <img src="https://github.com/user-attachments/assets/f2db6212-b811-4e8b-a7c3-4d8b502cdae5">
     <img src="https://github.com/user-attachments/assets/cd38ea0f-07e5-44d5-8900-467fd7aaa339">
-
-
 </div>
-
-
+   
+<!-- only for stetic -->
+<img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github.com/user-attachments/assets/f8ef73ec-38aa-4bde-9f7e-6001090954af">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaistenello&layout=donut-vertical&theme=codeSTACKr&bg_color=00000000&hide_border=true" alt="Linguagens">
     </a>
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/user-attachments/assets/fa94b2c2-6f24-41f8-be61-2957ab4010e0">
-    </div>
-
 </div>
+
 
 

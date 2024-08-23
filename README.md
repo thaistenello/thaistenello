@@ -4,7 +4,7 @@
 <!-- MY STACKS -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
     <img src="https://github.com/user-attachments/assets/68e98c1b-cf26-489d-8f74-7bc6e99c48bd">
-    <img src="https://github.com/user-attachments/assets/3220199e-586d-4e63-9c79-6e19712bf621">
+    <img src="https://github.com/user-attachments/assets/0aae0e20-2837-4824-96f7-4a3bbab41e85">
     <img src="https://github.com/user-attachments/assets/fb3b209d-e994-4b96-a037-c14e48afd6cc">
     <img src="https://github.com/user-attachments/assets/04cbe654-ae2d-4280-b093-a663380fde23">
 </div>

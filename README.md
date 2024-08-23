@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/1b968524-341a-46e0-b166-08f44757baea">
 
 <!-- Typescript --> 
-<img src="https://github.com/user-attachments/assets/a9e6363c-78e0-4dad-b4d4-9af3a859e7f7">
+<img src="[https://github.com/user-attachments/assets/a9e6363c-78e0-4dad-b4d4-9af3a859e7f7](https://github.com/user-attachments/assets/aa90bdbd-296d-4d9d-81d0-ebbb15a2b8dd)">
 </div>
 
 

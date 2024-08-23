@@ -40,7 +40,7 @@
         <img src="https://github.com/user-attachments/assets/37b0eb29-3b3d-4d73-aa9c-69161cc80db8" alt="LinkedIn Thais Tenello">
     </a>
     <a href="mailto:thaistenello@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/2f0cf68f-ed44-4a4f-aa85-8449d3b5f637" alt="Email Thais Tenello">
+        <img src="https://github.com/user-attachments/assets/b9893d25-aefa-422b-9043-84ad5ac163c6" alt="Email Thais Tenello">
     </a>
     <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/9bbcbdec-2974-447e-aa01-5dce889a2c18" alt="LinkedIn Thais Tenello">

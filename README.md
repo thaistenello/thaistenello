@@ -49,4 +49,4 @@
 <!-- only for stetic -->
 <img src="https://github.com/user-attachments/assets/8d1bf663-b5c9-46b9-b9a2-724bffdf0154">
 
-![folks](https://github.com/user-attachments/assets/e836a1a6-9de0-4af8-a07e-cbd8ceb58952)
+![folks](https://github.com/user-attachments/assets/0813bc60-5990-4c69-a2ec-224d60c9d6e5)

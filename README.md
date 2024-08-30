@@ -36,7 +36,7 @@
 ![find](https://github.com/user-attachments/assets/dc5aafab-953c-4ac9-bf96-e1f78e604ca1)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.linkedin.com/in/thais-tenello-aa903811a" rel="noopener noreferrer">
+    <a href="www.linkedin.com/in/thaistenello" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/37b0eb29-3b3d-4d73-aa9c-69161cc80db8" alt="LinkedIn Thais Tenello">
     </a>
     <a href="mailto:thaistenello@gmail.com" {:target="_blank"} rel="noopener noreferrer">
